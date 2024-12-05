@@ -1,0 +1,2 @@
+# Set png files to be treated as binary
+*.png binary
