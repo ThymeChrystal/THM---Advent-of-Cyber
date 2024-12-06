@@ -19,6 +19,7 @@ Now, united by a common purpose, McSkidy and the Glitch start their work in the 
 
 # The daily challenges
 - [Day 1: Maybe SOC-mas music, he thought, doesn't come from a store.](day-1.md)
+- [Day 2: One man's false positive is another man's potpourri.](day-2.md)
 
 # Link to the room
 This room is part of the TryHackMe Advent of Cyber 2024 event. You can visit it [here](https://tryhackme.com/r/room/adventofcyber2024).
