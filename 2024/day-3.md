@@ -189,7 +189,8 @@ There was a `flag.txt` file, so I did a `cat flag.txt` command:
 
 I entered the flag into the challenge page and it was correct.
 
-
+### Remaining questions
+The remaining questions only require you to click `Complete` and have no specific answers to find.
 
 
 

@@ -21,6 +21,7 @@ Now, united by a common purpose, McSkidy and the Glitch start their work in the 
 - [Day 1: Maybe SOC-mas music, he thought, doesn't come from a store.](day-1.md)
 - [Day 2: One man's false positive is another man's potpourri.](day-2.md)
 - [Day 3: Even if I wanted to go, their vulnerabilities wouldn't allow it.](day-3.md)
+- [Day 4: I'm all atomic inside!](day-4.md)
 
 # Link to the room
 This room is part of the TryHackMe Advent of Cyber 2024 event. You can visit it [here](https://tryhackme.com/r/room/adventofcyber2024).
