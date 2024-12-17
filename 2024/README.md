@@ -23,6 +23,7 @@ Now, united by a common purpose, McSkidy and the Glitch start their work in the 
 - [Day 3: Even if I wanted to go, their vulnerabilities wouldn't allow it.](day-3.md)
 - [Day 4: I'm all atomic inside!](day-4.md)
 - [Day 5: SOC-mas XX-what-ee?](day-5.md)
+- [Day 6: If I can't find a nice malware to use, I'm not going.](day-6.md)
 
 # Link to the room
 This room is part of the TryHackMe Advent of Cyber 2024 event. You can visit it [here](https://tryhackme.com/r/room/adventofcyber2024).
